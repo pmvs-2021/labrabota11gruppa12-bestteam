@@ -43,7 +43,7 @@ Go to the "Event catalog" section. Here you can see your favorite event types. S
 Works in offline mode.
 Long press on event title removes event from favorites list.
 
-<img src="https://github.com/rexxmagtar/beerfornofear/blob/main/blob/Favorite_event_.png" width="25%" height="50%">
+<img src="https://github.com/rexxmagtar/beerfornofear/blob/main/blob/Favorite_beer_.png" width="25%" height="50%">
 
 ##### Map
 
