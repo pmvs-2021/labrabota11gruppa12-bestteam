@@ -22,15 +22,15 @@ You have to use eventer_cataloge.apk file. It is located in the build_apk folder
 Go to the "Events" section. Here you can watch various events to celebrate.
 Try to create your own events and set the date.
 
-<img src="https://github.com/pmvs-2021/labrabota11gruppa12-bestteam/tree/master/blob/usage_event_2.jpg" width="25%" height="50%">
+<img src="https://github.com/rexxmagtar/beerfornofear/blob/main/blob/usage_event_2.jpg" width="25%" height="50%">
 
 You can set the date in a very convenient way by selecting the desired month and day in the calendar.
 
-<img src="https://github.com/pmvs-2021/labrabota11gruppa12-bestteam/tree/master/blob/usage_event_3.jpg" width="25%" height="50%">
+<img src="https://github.com/rexxmagtar/beerfornofear/blob/main/blob/usage_event_3.jpg" width="25%" height="50%">
 
 You can also modify events: change the date or description, or completely delete this event.
 
-<img src="https://github.com/pmvs-2021/labrabota11gruppa12-bestteam/tree/master/blob/usage_event_4.jpg" width="25%" height="50%">
+<img src="https://github.com/rexxmagtar/beerfornofear/blob/main/blob/usage_event_4.jpg" width="25%" height="50%">
 
 
 ##### Eventer catalog
